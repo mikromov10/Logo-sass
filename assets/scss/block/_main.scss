@@ -1,0 +1,197 @@
+.duble {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(182, 184, 184);
+}
+
+.duble_text {
+    padding-top: 165px;
+    margin-left: 130px;
+    font-family: Roboto;
+    font-size: 30px;
+}
+
+.style_text {
+    padding-top: 11px;
+    margin-left: 130px;
+    font-family: Roboto;
+}
+
+.duble_btn {
+    margin-top: 30px;
+    padding: 15px 25px;
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+    margin-left: 130px;
+    font-family: Roboto;
+}
+
+.camp {
+    background-color: #d3d3d3;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    gap: 52px;
+    padding: 52px 0;
+}
+
+.ferma_1 {
+    display: flex;
+    justify-content: center;
+}
+
+.ferma_text {
+    width: 234px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    padding-top: 118px;
+}
+
+.ferma_title {
+    color: #000;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    padding-top: 14px;
+}
+
+.ferma_img {
+    margin-left: 45px;
+    margin-top: 49px;
+}
+
+.ferma_2 {
+    display: flex;
+    justify-content: center;
+}
+
+.ferma__text {
+    color: #000;
+    font-family: Roboto;
+    font-size: 31px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    padding-top: 79px;
+}
+
+.ferma__title {
+    color: #000;
+    font-family: Roboto;
+    font-size: 15px;
+    padding-top: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.m {
+    background-color: rgb(0, 77, 177);
+    color: white;
+    font-size: 13px;
+    border-radius: 5px;
+    padding: 5px 5px;
+}
+
+.layaut {
+    justify-content: center;
+    display: flex;
+    background-color: #ebebeb;
+    text-align: center;
+}
+
+.layaut_text {
+    color: #333;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 31px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    margin-bottom: 11px;
+}
+
+.layaut_title {
+
+    color: #333;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
+.layaut__text {
+    padding-bottom: 40px;
+    font-family: roboto;
+    color: #333;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.bolim {
+    gap: 30px;
+}
+
+.tips {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding-bottom: 82px;
+}
+
+.text {
+    width: 243px;
+    margin-left: 50px;
+    color: #333;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.tips_text {
+    margin-left: 50px;
+    color: #333;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.p_text {
+    display: flex;
+    justify-content: center;
+    padding: 90px;
+    color: #333;
+    font-family: Roboto;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    padding-left: 128px;
+}
+
+.footer {
+    background-color: #171717;
+    color: #777;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 15px 0;
+    display: flex;
+    justify-content: center;
+}

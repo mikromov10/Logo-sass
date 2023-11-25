@@ -1,0 +1,23 @@
+.header_logo {
+    display: flex;
+    justify-content: space-around;
+    background-color: #6b6b6b;
+    padding: 25px 0;
+}
+
+.logo_text {
+    display: flex;
+    color: #FFFF;
+    gap: 40px;
+}
+
+.logo_text li a {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    line-height: 20px;
+}
+
+.logo_text li a:hover {
+    color: #989696;
+}
